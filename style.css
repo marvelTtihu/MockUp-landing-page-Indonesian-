@@ -142,7 +142,8 @@ body::before {
     }
 
     .nav-cta {
-        margin-left: auto;
+        align-self: flex-start;
+        margin-top: 1rem;
         max-width: fit-content;
     }
 }
@@ -166,9 +167,11 @@ body::before {
     }
 
     .nav-cta {
-        margin-right: 1.5rem;
+        align-self: flex-start;
+        margin-left: 0.5rem;
     }
 }
+
 
 /* HERO */
 .hero {
@@ -402,7 +405,7 @@ body::before {
 }
 
 /* CTA */
-.cta {padding: 6rem 5%; margin-top: 10rem;}
+.cta {padding: 6rem 5%; margin-top: 10rem; scroll-margin-top: 80px;}
 
 .cta-box {
     border: 3px solid var(--accent);
@@ -556,6 +559,10 @@ body::before {
     .stat-grid {
         padding: 1rem 0;
         grid-template-columns: 1fr 1fr;
+    }
+
+    .testimonial {
+        margin-top: 2rem
     }
 
     .testimonial-grid {
