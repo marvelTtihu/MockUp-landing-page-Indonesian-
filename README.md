@@ -11,4 +11,4 @@ A dark-themed web development service landing page mockup built with HTML & CSS.
 - CSS
 
 ## Live Demo
-[View here](https://marvelTtihu.github.io/MockUp-landing-page-Indonesian-)
+[View here](https://github.com/marvelTtihu/MockUp-landing-page-Indonesian-)
