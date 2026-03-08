@@ -1,4 +1,4 @@
-# MarvelT Landing Page Mockup
+# MVT Landing Page Mockup
 
 A dark-themed web development service landing page mockup built with HTML & CSS.
 
