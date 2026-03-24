@@ -2,17 +2,17 @@
 
 A dark-themed web development service landing page mockup built with HTML & CSS.
 
-## Features
+## 🎯 Features
 - **Smooth scroll animations**
 - **Services, About, Testimonials, and CTA sections**
 - **Container, button hover effects**
 
-## Tech Stack
+## ⚙ Tech Stack
 - **HTML5** : Structure and content
 - **CSS3** : styling and animation
 
-## Live Demo
+## ▶️ Live Demo
 [View here](https://marvelttihu.github.io/MockUp-landing-page-Indonesian-/)
 
-## Notes
+## 📝 Notes
 This is just a mock-up / demo, not a real landing page.
